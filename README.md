@@ -5,7 +5,7 @@ Technologies Used :
 
 1. Selenium
 2. JAVA
-3. POM
+3. testNG
 
 
 Creator: Jyoti Sulakhe
